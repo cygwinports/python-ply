@@ -1,7 +1,7 @@
 inherit python-distutils
 
 NAME="python-ply"
-VERSION=3.6
+VERSION=3.8
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python 2 lex and yacc"

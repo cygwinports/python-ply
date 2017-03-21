@@ -1,10 +1,10 @@
-inherit python-distutils
+inherit python-wheel
 
 NAME="python-ply"
-VERSION=3.8
+VERSION=3.9
 RELEASE=1
 CATEGORY="Python"
-SUMMARY="Python 2 lex and yacc"
+SUMMARY="Python lex and yacc"
 DESCRIPTION="PLY is yet another implementation of lex and yacc for Python.
 Some notable features include the fact that its implemented entirely in Python
 and it uses LALR(1) parsing which is efficient and well suited for larger

@@ -1,7 +1,7 @@
 inherit python-wheel
 
 NAME="python-ply"
-VERSION=3.9
+VERSION=3.11
 RELEASE=1
 CATEGORY="Python"
 SUMMARY="Python lex and yacc"
